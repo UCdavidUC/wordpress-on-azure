@@ -12,7 +12,7 @@
  ### Prerequiites
  * Web App Service.
  * Azure Database for MySQL.
- * Application Insights (optional: if you requiere application advanced montitoring)
+ * Application Insights (optional: if you requiere advanced application montitoring)
 
  ### Steps
  1. Create an Azure Database for MySQL.
